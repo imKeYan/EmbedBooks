@@ -1,12 +1,13 @@
 <h1 align="center">嵌入式经典书籍分享</h1>
 
 <p align="center">
-<a href="https://keyanchengguo.feishu.cn/docx/WVcYdqvMUoDZckxNmtnc3PQRn3g"><img src="https://img.shields.io/static/v1?label=关于&message=科岩是谁&color=important" alt="科岩"></a>
+<a href="https://keyanchengguo.feishu.cn/docx/WVcYdqvMUoDZckxNmtnc3PQRn3g"><img src="https://img.shields.io/static/v1?label=%E5%85%B3%E4%BA%8E&message=%E7%A7%91%E5%B2%A9%E6%98%AF%E8%B0%81&color=important" alt="科岩"></a>
 <a href="http://img.keyanchengguo.com/QRcodeOfKYCG.jpg"><img src="https://img.shields.io/static/v1?label=%E5%85%AC%E4%BC%97%E5%8F%B7&message=%E7%A7%91%E5%B2%A9%E6%88%90%E6%9E%9C&color=brightgreen" alt="公众号"></a>
-<a href="https://www.douyin.com/user/MS4wLjABAAAASL7NTFtg5X-ycqjZ1OFwuTyOkMINyXEXnt6tWqEnaB8"><img src="https://img.shields.io/static/v1?label=抖音&message=科岩成果&color=ff69b4" alt="抖音"></a>
-<a href="https://space.bilibili.com/42617026"><img src="https://img.shields.io/static/v1?label=B站&message=科岩成果&color=00AEEC" alt="B站"></a>
-<a href="https://item.taobao.com/item.htm?id=777926117790"><img src="https://img.shields.io/static/v1?label=淘宝&message=体系课程&color=FF5000" alt="陪跑"></a>
+<a href="https://www.douyin.com/user/MS4wLjABAAAASL7NTFtg5X-ycqjZ1OFwuTyOkMINyXEXnt6tWqEnaB8"><img src="https://img.shields.io/static/v1?label=%E6%8A%96%E9%9F%B3&message=%E7%A7%91%E5%B2%A9%E6%88%90%E6%9E%9C&color=ff69b4" alt="抖音"></a>
+<a href="https://space.bilibili.com/42617026"><img src="https://img.shields.io/static/v1?label=B%E7%AB%99&message=%E7%A7%91%E5%B2%A9%E6%88%90%E6%9E%9C&color=00AEEC" alt="B站"></a>
+<a href="https://item.taobao.com/item.htm?id=777926117790"><img src="https://img.shields.io/static/v1?label=%E6%B7%98%E5%AE%9D&message=%E4%BD%93%E7%B3%BB%E8%AF%BE%E7%A8%8B&color=FF5000" alt="陪跑"></a>
 </p>
+
 本仓库无偿分享优质计算机知识书籍、**PDF**资料以及个人笔记等，主要围绕**嵌入式**、**单片机**及**Linux**领域，希望能够帮助新手、小白节约查找资料的时间，过滤含金量不高的信息，为迷茫的朋友指一条「慢即是快」的「捷径」。
 
 如果你也像我刚毕业那会儿，不知道该看哪些书，不知道如何取舍，今天觉得这个语言好，明天又觉得那个技术新，学了三分钟，后天又自问“我为什么要学？”
@@ -231,9 +232,13 @@
 - 《颈椎康复指南》  [百度云链接](https://pan.baidu.com/s/1ZK0itvLdzmddMlI4IDxWJw)  提取码：rdim 
 - 《实用眼科诊疗手册》  [百度云链接](https://pan.baidu.com/s/13-YaPYhQ3bykv36FqiuD5Q )  提取码：tapx 
 
+
+
 -------
 
-#### 阅读建议
+
+
+### 阅读建议
 
 计算机领域相关的图书大部分是大部头，不那么容易啃下来。不要气馁，可以先只看你最关心的部分，其他看不懂就放那，没准哪天突然就想明白了。
 
@@ -245,7 +250,7 @@
 
 一起进步，一起变强吧！
 
-#### 体系课程
+### 体系课程
 
 如果你是自学嵌入式，也不是非要自己把所有路都摸一遍，所有的书都看一遍。
 
@@ -262,7 +267,7 @@
 
 <img src="http://img.keyanchengguo.com/dby/dby_all.png">
 
-#### 免责声明
+### 免责声明
 
 本仓库书籍、报告、咨询等链接全部来源于网络他人整理，个人只是搜录整理他人成果。
 
